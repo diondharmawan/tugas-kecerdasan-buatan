@@ -1,0 +1,6 @@
+
+Evaluasi Model SVM:
+Akurasi   : 0.8895
+Precision : 0.9167
+Recall    : 0.9470
+F1-Score  : 0.9316
